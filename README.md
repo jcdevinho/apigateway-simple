@@ -27,7 +27,7 @@ httprouter
 docker run -d -p 8848:8848 --name nacos nacos/nacos-server
 
 2. Clone o projeto
-git clone https://github.com/seu-usuario/gateway-nacos-go.git
+git clone (https://github.com/jcdevinho/apigateway-simple)
 cd gateway-nacos-go
 
 3. Instale as dependências
